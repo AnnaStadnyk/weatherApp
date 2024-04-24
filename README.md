@@ -1,3 +1,3 @@
 # Weather App
 
-Vue.js (Option API)
+Vue.js (Option API), tailwind
